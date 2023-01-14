@@ -12,6 +12,11 @@ form button {
     font-weight: normal;
 }
 
+.logo-empresa {
+    height: 100px;
+    padding: 0 16px;
+}
+
 body,
 input,
 textarea {
