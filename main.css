@@ -5,17 +5,18 @@
 }
 
 header,
+h1,
 section h2,
 section h3,
 form button {
-    font-family: 'Bungee', cursive;
-    font-weight: normal;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+    text-transform: uppercase;
 }
 
 body,
 input,
 textarea {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
 }
 
 header {
@@ -44,8 +45,6 @@ header nav li a {
     width: 100%;
     margin: 0 auto;
 }
-
-
 
 header .container,
 section .container {
